@@ -1,2 +1,2 @@
 # Hello-world-
-Just sample repository
+Just sample repository is a new repo
